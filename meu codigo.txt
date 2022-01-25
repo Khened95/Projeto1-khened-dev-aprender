@@ -10,4 +10,10 @@ Passos
 5 - Gt checkout na branch principal
 6 - Git pull
 7 - Mergiar (unir) o código da branch temporário com a branch principal (Depois de testar)
+<<<<<<< HEAD
 8 - Git push da branch principal
+=======
+8 - Git push da branch principal
+
+print('Olá mundo!!')
+>>>>>>> stagin
